@@ -39,6 +39,5 @@ npm run test
 - save the data in a database (probably relational, based on the current description, because we can retrieve the data directly sorted)
 - add a validation on name to ensure unicity
 - have a more user friendly UI
-- refersh the supeheros table every time a new superhero is added
 
 
