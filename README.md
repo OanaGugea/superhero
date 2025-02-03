@@ -17,7 +17,13 @@ There are 2 API's available:
 Start the application with the server running on port 3000:
 
 ```bash
-npm start
+npm run start:server
+```
+
+Run the available unit tests:
+
+```bash
+npm run test
 ```
 
 <u>Team collaboration:</u> in order to extend this API or improve it I would discuss with the team, decide on what we want and document the expected inputs and outputs and then based on this I woul start the implementation.
