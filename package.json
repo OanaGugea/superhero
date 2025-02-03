@@ -4,7 +4,7 @@
   "description": "humble superhero API",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index.ts",
+    "start:server": "nodemon src/main/index.ts",
     "build": "tsc"
   },
   "repository": {
