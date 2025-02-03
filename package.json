@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start:server": "nodemon src/main/index.ts",
+    "start:client": "npm run dev --prefix src/render",
     "build": "tsc",
     "test": "NODE_ENV=test jest --forceExit"
   },
